@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahreibaodu.stephen.band/sitemap.xml
